@@ -1,0 +1,5 @@
+{
+  "name": "Lumina E-Commerce",
+  "description": "A full-fledged e-commerce platform featuring dual-role access (User/Owner), real-time stock simulation, secure checkout flow, and AI-powered product descriptions.",
+  "requestFramePermissions": []
+}
